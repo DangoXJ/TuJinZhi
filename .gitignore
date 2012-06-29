@@ -44,6 +44,8 @@ local.properties
 # Build results
 [Dd]ebug/
 [Rr]elease/
+Debug.win32/
+Release.win32/
 *_i.c
 *_p.c
 *.ilk
